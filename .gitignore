@@ -10,6 +10,8 @@ ccsd_lpno/__pycache__/*
 h2n/*.json
 h2n/*.png
 h2n/*.dat
+h2n/mp2_correction/*.dat
+h2n/mp2_correction/*.json
 
 # docs that aren't ready
 docs/build/*
@@ -17,3 +19,6 @@ docs/build/*
 timer.dat
 
 tests/timer.dat
+
+# outfiles that are not relevant
+*.out

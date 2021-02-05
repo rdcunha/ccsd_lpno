@@ -16,9 +16,9 @@ cutoffs = [1e-10, 1e-5]
 optrot_lg_list = []
 optrot_mvg_list = []
 
-optrot_compare_list_mvg = [1131.5033042025466, 519.4612544828578]
-optrot_compare_list_lg = [1323.4288250963534, 1035.7555342116455]
-polar_compare_list = [19.306154512911203, 18.834936748542642]
+optrot_compare_list_mvg = [1131.5129117543029, 437.9717697996912]
+optrot_compare_list_lg = [1323.4690320008708, 1010.6043948493821]
+polar_compare_list = [19.3061590291987, 18.855612676086874]
 
 psi4.core.clean()
 
